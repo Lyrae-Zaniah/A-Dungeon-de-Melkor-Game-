@@ -27,3 +27,8 @@ This game was made to practice:
 - Control flow (`while`, `if`, `break`, etc)
 - Clean structuring using only basic Python
 - Menu-driven interactions in the terminal
+
+---
+
+## 🧙‍♂️ Author
+Made by Guilherme or @Lyrae-Zaniah
